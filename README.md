@@ -15,7 +15,7 @@
  - Downloads can be cancelled upon initiation.
  - A List view consisting of all downloaded files along with their information is provided in a tabulature format. -> (File Name, Type, Size, Status, Location)
  
- [Application images are provided at ->] (/ApplicationImages) 
+[Application images are provided at](/ApplicationImages) 
  
 # Suggested Future Upgradations
  - Download List can be clickable to locate downloaded file
