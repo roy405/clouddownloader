@@ -14,7 +14,8 @@
  - Progress tracking is done using a label which is located below the download text box. It appears once a download is initiated.
  - Downloads can be cancelled upon initiation.
  - A List view consisting of all downloaded files along with their information is provided in a tabulature format. -> (File Name, Type, Size, Status, Location)
- - [Application images are provided at ->] (https://github.com/roy405/clouddownloader/tree/main/ApplicationImages) 
+ 
+ [Application images are provided at ->] (/ApplicationImages) 
  
 # Suggested Future Upgradations
  - Download List can be clickable to locate downloaded file
